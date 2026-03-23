@@ -1,0 +1,12 @@
+# Binaries
+*.exe
+*.o
+*.so
+
+# Results
+*.txt
+results/
+
+# IDE
+.vscode/
+.idea/
